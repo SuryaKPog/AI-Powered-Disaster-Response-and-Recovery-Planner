@@ -1,0 +1,7 @@
+train: /content/datasets/images/train
+val: /content/datasets/images/valid
+test: /content/datasets/images/test
+
+nc: 1
+
+names: ['human']
